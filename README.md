@@ -1,6 +1,7 @@
 # install-ros-in-jetson-nano
 
 1-Open a new terminal by pressing Ctrl + Alt + t or executing the “Terminal” application using the Ubuntu launch system.
+
 2- Set up the Jetson Nano to accept software from packages.ros.org
 
 
