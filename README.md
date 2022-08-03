@@ -19,9 +19,15 @@ $ sudo apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E
 $ sudo apt update
 
 
-5-Install the ROS Desktop package, including support for rqt, rvizand other useful robotics packages:
+5-Install the ROS Desktop package
 
 $ sudo apt install ros-melodic-desktop
+
+installROS.sh
+
+
+
+
 
 
 
